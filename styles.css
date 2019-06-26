@@ -45,8 +45,7 @@ li {
 
 .top-button {
   box-sizing: content-box;
-  min-width: 150px;
-  width: 16%;
+  min-width: 25%;
   height: 3rem;
   border-radius: 28px;
   text-shadow: 1px 1px 2px #666666;
